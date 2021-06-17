@@ -86,6 +86,6 @@ Deployment into board:
 ![image](https://user-images.githubusercontent.com/82163697/122460159-5e81f380-cfe4-11eb-8308-ae660dd3d032.png)
 ![image](https://user-images.githubusercontent.com/82163697/122460173-6477d480-cfe4-11eb-92dd-1c2ca45eb949.png)
 
-11. Results show above are expected.
+11. Expected result printed in Putty terminal.
 
 
