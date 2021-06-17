@@ -23,3 +23,5 @@ Training Part:
 6. Choose Neural Network(Keras) in learning block.
 7. Next, click on "Save Impulse" to save the impulse setting.
 
+
+
